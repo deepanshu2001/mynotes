@@ -40,24 +40,7 @@ Enter the title and content in the input fields.
 Click the "Add" button to save the note.
 Deleting a Note
 Click the "Delete" button on the note you wish to delete.
-Project Structure
-css
-Copy code
-my-react-app/
-├── node_modules/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── CreateArea.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Header.jsx
-│   │   ├── Note.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-├── package.json
-├── vite.config.js
-└── README.md
+
 Components
 App.jsx:
 The main component that holds the state for the notes and renders the Header, CreateArea, and Footer components.
