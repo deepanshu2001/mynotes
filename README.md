@@ -2,16 +2,7 @@
 
 A simple note-taking application built with React and Vite. Users can create and delete notes, making it a convenient tool for quick note management.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Components](#components)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
